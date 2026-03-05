@@ -32,7 +32,7 @@ A lightweight command-line tool to validate a Discord bot token and display info
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/bot-info.git
+git clone https://github.com/ryukadll/bot-info-fetcher.git
 cd bot-info
 
 # Install dependencies
