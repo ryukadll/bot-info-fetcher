@@ -15,7 +15,7 @@ A lightweight command-line tool to validate a Discord bot token and display info
 - Lists all servers (guilds) the bot is a member of
 - Styled terminal output with animated text and colour gradients (via `pystyle`)
 
----
+--- 
 
 ## Requirements
 
