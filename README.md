@@ -2,7 +2,7 @@
 
 
 ![standard](https://github.com/user-attachments/assets/bf7e6fd4-3593-4e4b-9a94-30b710bb2562)
-
+ 
 
 A lightweight command-line tool to validate a Discord bot token and display information about the bot — including its username, ID, and all servers it's currently in.
 
